@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer-array name="color_list">
+        <item name="red">@color/red</item>
+        <item name="orange">@color/orange</item>
+        <item name="light_orange">@color/light_orange</item>
+        <item name="dark_yellow">@color/dark_yellow</item>
+        <item name="yellow">@color/yellow</item>
+        <item name="green">@color/green</item>
+        <item name="light_green">@color/light_green</item>
+        <item name="cyan">@color/cyan</item>
+        <item name="dark_cyan">@color/dark_cyan</item>
+        <item name="dark_cyan_2">@color/dark_cyan_2</item>
+        <item name="blue">@color/blue</item>
+        <item name="light_blue">@color/light_blue</item>
+        <item name="violet">@color/violet</item>
+        <item name="light_violet">@color/light_violet</item>
+        <item name="pink">@color/pink</item>
+    </integer-array>
+</resources>
